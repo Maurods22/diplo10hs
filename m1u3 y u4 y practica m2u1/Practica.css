@@ -1,0 +1,21 @@
+h1{    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+h2{background-color: grey;text-align: center;font-family: Arial, Helvetica, sans-serif}
+ul{background-color: rgb(255, 153, 0);
+    border-radius: 40px;
+}
+p {text-align: center;}
+h3{text-align: center;background-color: brown;font-family:Arial, Helvetica, sans-serif}
+
+h4{text-align: center;background-color: crimson ;font-family:Arial, Helvetica, sans-serif}
+ol {background: rgb(180,58,58);
+    background: linear-gradient(149deg, rgba(180,58,58,1) 0%, rgba(17,1,1,1) 67%, rgba(152,150,22,1) 100%);
+border-radius: 30px;
+color: white;}
+body{background: rgb(249,239,239);
+    background: radial-gradient(circle, rgba(249,239,239,0) 0%, rgba(122,117,117,1) 67%, rgba(189,189,182,1) 100%);
+}
+  
