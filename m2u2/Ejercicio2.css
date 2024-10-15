@@ -1,0 +1,40 @@
+.Boxgrande { border: 1px solid black;
+    background-color    : antiquewhite;
+    display: flex;
+    margin: 0 auto;
+    width: 600px;
+    height: 500px;
+    align-items: center;
+    flex-direction: row-reverse;
+
+}
+#rojo {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Verde {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Azul {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

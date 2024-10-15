@@ -1,0 +1,43 @@
+.boxgrande { display: flex;
+  background-color: antiquewhite; 
+  margin: 0 auto;
+  width: 600px;
+  height: 500px;
+  align-items: flex-end;
+  border: 2px solid black;
+  
+flex-direction: column; 
+justify-content: flex-end;}
+
+#Rojo { 
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+
+}
+
+#Azul {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+
+}
+
+#verde {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+
+}
